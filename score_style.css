@@ -1,0 +1,24 @@
+.winner {
+	color: green;
+}
+
+div {
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 5%;
+	padding-bottom: 5%;
+	padding-top: 5%;
+	border: 5px solid black;
+	background-color: #D3D3D3;
+}
+h1 {
+	font-family: 'Patua One', cursive;
+}
+
+button {
+	font-family: 'Fredoka One', cursive;
+}
+
+p {
+	font-family: 'Fredoka One', cursive;
+}
